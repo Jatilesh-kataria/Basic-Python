@@ -1,1 +1,11 @@
-This repository contains a set of basic Python programs designed for beginners who are learning the language. Each program focuses on a specific concept in Python, making it easier to understand and practice the core building blocks of programming and files of it are uploaded every week all the programs are make at Level 1,2 and 3.
+This repository contains a collection of beginner-friendly Python programs.
+Each program focuses on a specific Python concept, making it easier to learn, understand, and practice the core building blocks of programming.
+
+New program files are uploaded every week.
+The exercises are organized into three levels of difficulty:
+
+Level 1 – Basic concepts and simple syntax.
+
+Level 2 – Intermediate exercises for deeper understanding.
+
+Level 3 – Advanced beginner challenges to strengthen problem-solving skills.
